@@ -3,6 +3,7 @@
     <div class="flex gap-2">
       <NuxtLink to="/bin2dec">Binary to Decimal</NuxtLink>
       <NuxtLink to="/notes">Notes</NuxtLink>
+      <NuxtLink to="/github-status">Github Status</NuxtLink>
     </div>
   </div>
 </template>
